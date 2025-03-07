@@ -1,63 +1,94 @@
-body {
-    background-color: #2c2c3c;
-    color: #e0e0e0;
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+/* Variables principales pour un thème sombre avec accent bleu cyan */
+:root {
+    --bg-color: #2c2c3c;          /* Fond global sombre */
+    --container-bg: #3a3a4a;      /* Fond plus clair pour les sections/cartes */
+    --text-color: #e0e0e0;        /* Couleur de texte claire */
+    --accent-color: #2EB5E0;      /* Bleu cyan pour l'accent */
+    --card-hover-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
   }
   
+  /* Corps de la page */
+  body {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Navbar fixe sombre */
   .fixed-header {
-    background: #1e1e2f; 
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+    background: #1e1e2f;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
   }
   
+  /* Liens et brand de la navbar */
+  .navbar-brand,
+  .navbar-dark .navbar-nav .nav-link {
+    color: var(--accent-color) !important;
+    font-weight: 600;
+  }
+  
+  .navbar-dark .navbar-nav .nav-link:hover {
+    color: #249CC5 !important; /* Bleu plus foncé au survol */
+  }
+  
+  /* Conteneurs Bootstrap (sections) */
   .container {
-    background-color: rgba(44, 44, 60, 0.95);
-    padding: 20px;
+    background-color: rgba(58, 58, 74, 0.85);
     border-radius: 8px;
-    margin-bottom: 30px;
+    padding: 2rem;
+    margin-bottom: 2rem;
   }
   
-  .card,
-  .experience-item,
-  .formation-item {
-    background-color: #3a3a4a;
+  /* Titres de section */
+  h1, h2, h3, h4, h5, h6 {
+    color: var(--accent-color);
+    margin-bottom: 1rem;
+  }
+  
+  /* Textes et liens */
+  p, a, li, strong, em, code {
+    color: var(--text-color);
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: var(--accent-color);
+  }
+  
+  /* Cartes (Projets, Expérience, Formation) */
+  .card {
+    background-color: var(--container-bg);
     border: none;
     border-radius: 6px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    box-shadow: var(--card-hover-shadow);
     transition: transform 0.2s ease, box-shadow 0.2s ease;
   }
   
-  .card:hover,
-  .experience-item:hover,
-  .formation-item:hover {
+  .card:hover {
     transform: translateY(-3px);
     box-shadow: 0 6px 12px rgba(0, 0, 0, 0.4);
   }
   
-  h2 {
-    color: #ffcc00;
+  .card-body, .card-title, .card-text, .list-unstyled li {
+    color: var(--text-color);
   }
   
-  a,
+  /* Boutons Bootstrap */
   .btn-primary,
   .btn-success {
-    background-color: #ffcc00;
-    border-color: #ffcc00;
-    color: #2c2c3c !important;
+    background-color: var(--accent-color);
+    border-color: var(--accent-color);
+    color: #2c2c3c !important; /* Contraste sur bouton */
   }
-  
-  a:hover,
   .btn-primary:hover,
   .btn-success:hover {
-    background-color: #e6b800;
-    border-color: #e6b800;
+    background-color: #249CC5; /* Un peu plus foncé au survol */
+    border-color: #249CC5;
     color: #2c2c3c !important;
-  }
-  
-  .fixed-header .nav-link {
-    color: #e0e0e0;
-  }
-  
-  .fixed-header .nav-link:hover {
-    color: #ffcc00;
   }
   
