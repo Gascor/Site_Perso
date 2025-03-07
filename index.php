@@ -172,10 +172,6 @@
   <section id="projets" class="container mb-5" data-aos="fade-up">
     <h2 class="mb-4">Projets</h2>
     <div class="row">
-        <!-- SECTION PROJETS -->
-    <section id="projets" class="container mb-5" data-aos="fade-up">
-    <h2 class="mb-4">Projets</h2>
-    <div class="row">
         
         <!-- Projet 1 : Paralix (plus récent) -->
         <div class="col-md-6 mb-4" data-aos="fade-up">
@@ -196,8 +192,7 @@
                 via une interface web intuitive. Le déploiement se fait sur un réseau local ou via un smartphone.
             </p>
             <ul>
-                <li><strong>Auteurs :</strong> Matthieu FARANDJIS, Tom BOGAERT, Florent VASSEUR–BERLIOUX, William HERUBEL, Baptiste FOURNIÉ, Lucas DA SILVA FERREIRA</li>
-                <li><strong>Technologies :</strong> Raspberry Pi OS, Scripts d’installation, SSH, FTP, Interface Web</li>
+                <li><strong>Technologies :</strong> Raspberry Pi OS, Scripts d’installation, SSH, FTP, Interface Web, HTML/CSS, JavaScript, NodeJS, MPI</li>
                 <li><strong>Calcul Parallèle :</strong> Répartition dynamique des tâches lourdes (Pi 4) et légères (Pi Zero)</li>
             </ul>
             <!-- Lien vers plus de détails (GitHub, README, démo...) -->
@@ -206,56 +201,41 @@
         </div>
         </div>
 
-    <!-- Autres projets... -->
-    <!--
-    <div class="col-md-6 mb-4" data-aos="fade-up">
-      <div class="card">
-        ...
-      </div>
-    </div>
-    -->
+        <!-- Nouveau projet : Macrosoft Helpdesk -->
+        <div class="col-md-6 mb-4" data-aos="fade-up">
+        <div class="card h-100 experience-hover">
+            <!-- Bannière du projet -->
+            <img
+            src="images/macrosoft-helpdesk.jpg"
+            class="card-img-top"
+            alt="Bannière du projet Macrosoft Helpdesk"
+            style="height: 200px; object-fit: cover;"
+            />
+            <div class="card-body">
+            <h5 class="card-title">Macrosoft Helpdesk</h5>
+            <p class="card-text">
+                <strong>Service web de maintenance interne</strong> visant à créer une plateforme de <em>ticketing</em> 
+                pour l’IUT de Vélizy. Ce projet (version <strong>0.2</strong>) inclut la gestion de tickets, 
+                de libellés, de niveaux d’urgence, et un système de rôles (Visiteur, Utilisateur connecté, 
+                Administrateur web, Technicien, Administrateur système). Toute la documentation se trouve 
+                dans le répertoire <code>/doc</code>, et les pages HTML dans <code>/src/site</code>.
+            </p>
+            <ul class="list-unstyled">
+                <li><strong>Technologies :</strong> PHP & MySQL, HTML/CSS, JavaScript, Raspbian, GitHub, SSH</li>
+                <li><strong>Objectif :</strong> Permettre la saisie et le suivi de tickets (Ouvert, En cours, Fermé)</li>
+                <li><strong>Rôles :</strong> Visiteur, Utilisateur, Admin web, Technicien, Admin système</li>
+            </ul>
+            <!-- Lien vers plus de détails (GitHub, README, doc...) -->
+            <a href="#" class="btn btn-primary">Voir le projet</a>
+            </div>
+        </div>
+        </div>
+
 
   </div>
+  <div class="row">
+  </div>
 </section>
-
-      <!-- Projet 1 -->
-      <div class="col-md-6 mb-4">
-        <div class="card">
-          <img
-            src="images/projet1.jpg"
-            class="card-img-top"
-            alt="Bannière Projet 1"
-            style="height: 200px; object-fit: cover;"
-          />
-          <div class="card-body">
-            <h5 class="card-title">Projet 1 : Lorem Ipsum </h5>
-            <p class="card-text">
-              Lorem Ipsum is simply dummy text of the printing and typesetting industry...
-            </p>
-            <a href="#" class="btn btn-primary">Voir le projet</a>
-          </div>
-        </div>
-      </div>
-      <!-- Projet 2 -->
-      <div class="col-md-6 mb-4">
-        <div class="card">
-          <img
-            src="images/projet2.jpg"
-            class="card-img-top"
-            alt="Bannière Projet 2"
-            style="height: 200px; object-fit: cover;"
-          />
-          <div class="card-body">
-            <h5 class="card-title">Projet 2 : Application Mobile</h5>
-            <p class="card-text">
-              Développement d’une application mobile en React Native pour gérer un agenda...
-            </p>
-            <a href="#" class="btn btn-primary">Voir le projet</a>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
 
   <!-- SECTION CENTRES D’INTÉRÊT -->
   <section id="centres-interet" class="container mb-5" data-aos="fade-up">
