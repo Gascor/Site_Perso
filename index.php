@@ -58,6 +58,7 @@
         <!-- Colonne date -->
         <div class="col-md-3 text-md-end">
         <strong>avril 2024 - juil. 2024</strong>
+        <p>Stage</p>
         </div>
         <!-- Colonne descriptif -->
         <div class="col-md-9">
@@ -75,7 +76,8 @@
     <!-- Expérience 2 -->
     <div class="row mb-4 p-3 experience-item" data-aos="fade-up">
         <div class="col-md-3 text-md-end">
-        <strong>août 2023</strong>
+        <strong>août 2023 - aujourd'hui</strong>
+        <p>CDI Temps partiel étudiant</p>
         </div>
         <div class="col-md-9">
         <h5 class="mb-1">Polyvalent en Conseil & Vente</h5>
@@ -91,6 +93,7 @@
     <div class="row mb-4 p-3 experience-item" data-aos="fade-up">
         <div class="col-md-3 text-md-end">
         <strong>juil. 2021 - août 2023</strong>
+        <p>CDI Temps partiel étudiant</p>
         </div>
         <div class="col-md-9">
         <h5 class="mb-1">Équipier Magasin</h5>
@@ -104,12 +107,43 @@
 
 
 
-  <!-- SECTION FORMATION -->
-  <section id="formation" class="container mb-5" data-aos="fade-up">
-    <h2 class="mb-4">Formation</h2>
-    <p><strong>BUT Informatique (2022 - 2025)</strong> à l'IUT de Vélizy-Rambouillet (UVSQ)</p>
-    <p>Parcours : Développement Web, Algorithmique, Gestion de Bases de Données...</p>
-  </section>
+    <!-- SECTION FORMATION -->
+    <section id="formation" class="container mb-5" data-aos="fade-up">
+    <h2 class="mb-4 text-uppercase">Formation</h2>
+
+    <!-- Formation 1 : BUT Informatique -->
+    <div class="row mb-4 p-3 formation-item" data-aos="fade-up">
+        <div class="col-md-3 text-md-end">
+        <strong>2022 - 2025</strong><br />
+        IUT de Vélizy,<br />
+        78140 Vélizy-Villacoublay
+        </div>
+        <div class="col-md-9">
+        <h5 class="mb-1">BUT Informatique</h5>
+        <p class="mb-0">
+            Apprentissage de la Programmation et de divers savoirs en Droit, Gestion,
+            Management, Économie, Mathématiques, Optimisation, Machine...
+        </p>
+        </div>
+    </div>
+
+    <!-- Formation 2 : Bac Général -->
+    <div class="row mb-4 p-3 formation-item" data-aos="fade-up">
+        <div class="col-md-3 text-md-end">
+        <strong>2019 - 2022</strong><br />
+        Lycée Jean Vilar,<br />
+        78370 Plaisir
+        </div>
+        <div class="col-md-9">
+        <h5 class="mb-1">Bac Général</h5>
+        <p class="mb-0">
+            Spécialisation : Mathématique, Physique-Chimie<br />
+            Spécialisation secondaire : SVT
+        </p>
+        </div>
+    </div>
+    </section>
+
 
   <!-- SECTION COMPÉTENCES (AVEC LOGOS) -->
   <section id="competences" class="container mb-5" data-aos="fade-up">
