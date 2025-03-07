@@ -449,12 +449,12 @@
         <div class="card h-100 experience-hover">
             <img src="images/slashed-project-fps.png" class="card-img-top" alt="Slashed Project FPS">
             <div class="card-body">
-            <h5 class="card-title">Slashed Project - Jeu FPS</h5>
+            <h5 class="card-title">Slashed Project - Jeu FPS (Projet en cours de réalisation)</h5>
             <p class="card-text">
                 Développement d'un jeu FPS multijoueur avec gestion d'instances de jeu, intégration serveur-client et fonctionnalités avancées de gameplay.
             </p>
             <ul>
-                <li><strong>Technologies :</strong> Unreal Engine 4, C++, Multijoueur, Réseaux</li>
+                <li><strong>Technologies :</strong> OpenGL, Panda3D, Python, Multijoueur, Réseaux</li>
             </ul>
             <a href="https://github.com/Gascor/Slashed-Project" class="btn btn-primary">Voir le projet</a>
             <a href="https://youtu.be/ZdqVkTJd0s8" class="btn btn-primary">Vidéo DEMO Moteur de Jeux 1</a>
