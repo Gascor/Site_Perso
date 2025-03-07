@@ -221,7 +221,7 @@
         <!-- Compétence 9 : Vue -->
         <div class="col-6 col-md-3 mb-4" data-aos="fade-up">
         <div class="card h-100 experience-hover p-3 text-center">
-            <img src="images/vue.png" alt="Vue.js" style="max-width: 60px; margin: 0 auto;">
+            <img src="images/Logo-Vuejs.png" alt="Vue.js" style="max-width: 60px; margin: 0 auto;">
             <h5 class="mt-3">Vue.js</h5>
             <span class="badge bg-info">Intermédiaire</span>
         </div>
