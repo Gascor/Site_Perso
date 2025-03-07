@@ -447,7 +447,7 @@
         <!-- Nouveau Projet : Slashed Project (Jeu FPS) -->
         <div class="col-md-6 mb-4" data-aos="fade-up">
         <div class="card h-100 experience-hover">
-            <img src="images/slashed-project-fps.png" class="card-img-top" alt="Slashed Project FPS">
+            <img src="images/gameengine.png" class="card-img-top" alt="Slashed Project FPS">
             <div class="card-body">
             <h5 class="card-title">Slashed Project - Jeu FPS (Projet en cours de réalisation)</h5>
             <p class="card-text">
@@ -457,7 +457,9 @@
                 <li><strong>Technologies :</strong> OpenGL, Panda3D, Python, Multijoueur, Réseaux</li>
             </ul>
             <a href="https://github.com/Gascor/Slashed-Project" class="btn btn-primary">Voir le projet</a>
+            <br>
             <a href="https://youtu.be/ZdqVkTJd0s8" class="btn btn-primary">Vidéo DEMO Moteur de Jeux 1</a>
+            <br>
             <a href="https://youtu.be/bzrNcgabcaY" class="btn btn-primary">Vidéo DEMO Moteur de Jeux 2</a>
             </div>
         </div>
@@ -466,6 +468,7 @@
         <!-- Nouveau Projet : Estimation de Pi via Monte Carlo -->
         <div class="col-md-6 mb-4" data-aos="fade-up">
         <div class="card h-100 experience-hover">
+            <img src="images/csvdata.png" class="card-img-top" alt="Slashed Project FPS">
             <div class="card-body">
             <h5 class="card-title">Calcul parallèle Monte Carlo (Estimation de Pi)</h5>
             <p class="card-text">
