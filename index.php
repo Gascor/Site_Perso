@@ -15,7 +15,7 @@
       </div>
     </div>
   </section>
-  
+
   <!-- SECTION COORDONNÉES -->
   <section id="coordonnees" class="container mb-5" data-aos="fade-up">
     <h2 class="mb-4">Coordonnées</h2>
@@ -49,22 +49,59 @@
     </div>
   </section>
 
-  <!-- SECTION EXPÉRIENCE PROFESSIONNELLE -->
-  <section id="experience" class="container mb-5" data-aos="fade-up">
-    <h2 class="mb-4">Expérience Professionnelle</h2>
-    <ul class="list-group">
-      <li class="list-group-item">
-        <h5>Stagiaire Développeur Full-Stack</h5>
-        <p class="mb-1"><em>avril 2024 - juillet 2024</em> (Livinweb, Paris)</p>
-        <p>Participation au développement front-end et back-end...</p>
-      </li>
-      <li class="list-group-item">
-        <h5>Stagiaire Informatique</h5>
-        <p class="mb-1"><em>juillet 2021 - août 2021</em> (Boulanger, Montigny)</p>
-        <p>Installation de postes, assistance, etc.</p>
-      </li>
-    </ul>
-  </section>
+    <!-- SECTION EXPÉRIENCE PROFESSIONNELLE -->
+    <section id="experience" class="container mb-5" data-aos="fade-up">
+    <h2 class="mb-4 text-uppercase">Expérience Professionnelle</h2>
+    
+    <!-- Expérience 1 : Stagiaire Développeur Full-Stack -->
+    <div class="experience-item d-flex flex-column flex-md-row mb-4" data-aos="fade-up">
+        <!-- Dates à gauche -->
+        <div class="experience-date me-md-3 mb-2 mb-md-0">
+        <strong>avril 2024 - juil. 2024</strong>
+        </div>
+        <!-- Détails à droite -->
+        <div>
+        <h5 class="mb-1">Stagiaire Développeur Full-Stack</h5>
+        <p class="mb-1"><em>Knave</em></p>
+        <p class="mb-0">
+            Développement de fonctionnalités logicielles, de tests unitaires, 
+            et participation à la gestion de projet en méthode Agile. 
+            Collaboration avec l'équipe pour améliorer les performances et 
+            la qualité du code.
+        </p>
+        </div>
+    </div>
+
+    <!-- Expérience 2 : Polyvalent en Conseil & Vente -->
+    <div class="experience-item d-flex flex-column flex-md-row mb-4" data-aos="fade-up">
+        <div class="experience-date me-md-3 mb-2 mb-md-0">
+        <strong>août 2023</strong>
+        </div>
+        <div>
+        <h5 class="mb-1">Polyvalent en Conseil & Vente</h5>
+        <p class="mb-1"><em>Auchan Hypermarché de Plaisir</em></p>
+        <p class="mb-0">
+            Polyvalence Caisse/Rayon. Conseil & Vente, rayon Multimédia. 
+            Vente de produits multimédia et électro-ménager.
+        </p>
+        </div>
+    </div>
+
+    <!-- Expérience 3 : Equipier Magasin -->
+    <div class="experience-item d-flex flex-column flex-md-row mb-4" data-aos="fade-up">
+        <div class="experience-date me-md-3 mb-2 mb-md-0">
+        <strong>juil. 2021 - août 2023</strong>
+        </div>
+        <div>
+        <h5 class="mb-1">Equipier Magasin</h5>
+        <p class="mb-1"><em>Auchan Hypermarché de Plaisir</em></p>
+        <p class="mb-0">
+            Manutention de rayon et encaissement, suivi client, fidélisation.
+        </p>
+        </div>
+    </div>
+    </section>
+
 
   <!-- SECTION FORMATION -->
   <section id="formation" class="container mb-5" data-aos="fade-up">
