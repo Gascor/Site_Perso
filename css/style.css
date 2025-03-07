@@ -21,4 +21,14 @@ body {
   .card:hover {
     transform: translateY(-5px);
   }
+  .experience-item {
+    background-color: #fff;       /* Couleur de fond (optionnel) */
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    border-radius: 4px;          /* Légèrement arrondi (optionnel) */
+  }
+  
+  .experience-item:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  }
   
