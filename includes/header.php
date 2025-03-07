@@ -9,20 +9,17 @@
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
   <!-- AOS CSS pour animations au scroll -->
   <link rel="stylesheet" href="https://unpkg.com/aos@2.3.1/dist/aos.css" />
-  <!-- Ton style personnalisé -->
   <link rel="stylesheet" href="css/style.css" />
   <style>
-    /* Smooth scrolling */
     html {
       scroll-behavior: smooth;
     }
-    /* Header fixe et compact */
     .fixed-header {
       position: fixed;
       top: 0;
       width: 100%;
       z-index: 1000;
-      background: #343a40; /* couleur sombre */
+      background: #343a40;
       padding: 0.5rem 1rem;
       box-shadow: 0 2px 4px rgba(0,0,0,0.1);
     }
@@ -33,9 +30,8 @@
     .fixed-header .nav-link {
       padding: 0.5rem 1rem;
     }
-    /* Ajouter un spacer pour éviter que le contenu soit caché sous le header fixe */
     .header-spacer {
-      height: 60px; /* Ajuste en fonction de la hauteur du header */
+      height: 60px;
     }
   </style>
 </head>
@@ -62,5 +58,4 @@
       </div>
     </nav>
   </header>
-  <!-- Un spacer pour que le contenu ne soit pas masqué par le header fixe -->
   <div class="header-spacer"></div>

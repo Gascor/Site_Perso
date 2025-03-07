@@ -125,7 +125,7 @@
       <div class="col-md-9">
         <h5 class="mb-1">BUT Informatique</h5>
         <p class="mb-0">
-          Apprentissage de la Programmation et de divers savoirs en Droit, Gestion, Management, Économie, Mathématiques, Optimisation, Machine...
+          Apprentissage de la Programmation et de divers savoirs en Droit, Gestion, Management, Économie, Mathématiques, Optimisation, Machine Learning, Calcul Hautes Performances...
         </p>
       </div>
     </div>
