@@ -172,6 +172,52 @@
   <section id="projets" class="container mb-5" data-aos="fade-up">
     <h2 class="mb-4">Projets</h2>
     <div class="row">
+        <!-- SECTION PROJETS -->
+    <section id="projets" class="container mb-5" data-aos="fade-up">
+    <h2 class="mb-4">Projets</h2>
+    <div class="row">
+        
+        <!-- Projet 1 : Paralix (plus récent) -->
+        <div class="col-md-6 mb-4" data-aos="fade-up">
+        <div class="card">
+            <!-- Bannière du projet (image de ton choix) -->
+            <img
+            src="images/paralix.jpg"
+            class="card-img-top"
+            alt="Bannière du projet Paralix"
+            style="height: 200px; object-fit: cover;"
+            />
+            <div class="card-body">
+            <h5 class="card-title">Paralix</h5>
+            <p class="card-text">
+                <strong>Plateforme de calcul mathématique parallèle</strong> s’appuyant sur
+                un cluster de <em>Raspberry Pi 4</em> et <em>Raspberry Pi Zero</em>.
+                Paralix permet d’exécuter rapidement des modules complexes (Hello World, Prime, Pi, etc.)
+                via une interface web intuitive. Le déploiement se fait sur un réseau local ou via un smartphone.
+            </p>
+            <ul>
+                <li><strong>Auteurs :</strong> Matthieu FARANDJIS, Tom BOGAERT, Florent VASSEUR–BERLIOUX, William HERUBEL, Baptiste FOURNIÉ, Lucas DA SILVA FERREIRA</li>
+                <li><strong>Technologies :</strong> Raspberry Pi OS, Scripts d’installation, SSH, FTP, Interface Web</li>
+                <li><strong>Calcul Parallèle :</strong> Répartition dynamique des tâches lourdes (Pi 4) et légères (Pi Zero)</li>
+            </ul>
+            <!-- Lien vers plus de détails (GitHub, README, démo...) -->
+            <a href="#" class="btn btn-primary">Voir le projet</a>
+            </div>
+        </div>
+        </div>
+
+    <!-- Autres projets... -->
+    <!--
+    <div class="col-md-6 mb-4" data-aos="fade-up">
+      <div class="card">
+        ...
+      </div>
+    </div>
+    -->
+
+  </div>
+</section>
+
       <!-- Projet 1 -->
       <div class="col-md-6 mb-4">
         <div class="card">
