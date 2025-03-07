@@ -442,6 +442,7 @@
             </ul>
             <br>
             <br>
+            <br>
             <a href="https://github.com/Gascor/Slashed-Project/tree/master/management-console/0.0.130a/src" class="btn btn-primary">Voir le projet</a>
             </div>
         </div>
@@ -481,6 +482,7 @@
             <ul>
                 <li><strong>Technologies :</strong> Java, MPI, Calcul Haute Performance, POO</li>
             </ul>
+            <br>
             <br>
             <br>
             <br>
