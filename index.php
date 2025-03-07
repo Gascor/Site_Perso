@@ -447,7 +447,7 @@
         <!-- Nouveau Projet : Slashed Project (Jeu FPS) -->
         <div class="col-md-6 mb-4" data-aos="fade-up">
         <div class="card h-100 experience-hover">
-            <img src="images/gameengine.png" class="card-img-top" alt="Slashed Project FPS">
+            <img src="images/gameengine.png" class="card-img-top" alt="Slashed Project FPS" style="height: 200px; object-fit: cover;">
             <div class="card-body">
             <h5 class="card-title">Slashed Project - Jeu FPS (Projet en cours de réalisation)</h5>
             <p class="card-text">
@@ -468,7 +468,7 @@
         <!-- Nouveau Projet : Estimation de Pi via Monte Carlo -->
         <div class="col-md-6 mb-4" data-aos="fade-up">
         <div class="card h-100 experience-hover">
-            <img src="images/csvdata.png" class="card-img-top" alt="Slashed Project FPS">
+            <img src="images/csvdata.png" class="card-img-top" alt="Slashed Project FPS" style="height: 200px; object-fit: cover;">
             <div class="card-body">
             <h5 class="card-title">Calcul parallèle Monte Carlo (Estimation de Pi)</h5>
             <p class="card-text">
