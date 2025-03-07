@@ -67,7 +67,7 @@
       </p>
       <!-- Bouton de téléchargement du CV -->
       <a 
-        href="files/CV-LucasDaSilvaFerreira.pdf" 
+        href="files/CV.pdf" 
         class="btn btn-success" 
         download="CV-LucasDaSilvaFerreira"
       >
