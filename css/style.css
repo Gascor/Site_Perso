@@ -31,4 +31,14 @@ body {
     transform: translateY(-3px);
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
   }
+  .formation-item {
+    background-color: #fff; /* Optionnel */
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    border-radius: 4px;     /* Optionnel */
+  }
+  
+  .formation-item:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  }
   
