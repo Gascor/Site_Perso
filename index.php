@@ -81,8 +81,10 @@
             <h5 class="mb-1">Stagiaire Développeur Full-Stack</h5>
             <p class="mb-1"><em>Knave</em></p>
             <p class="mb-0">
-            Développement de fonctionnalités logicielles, de tests unitaires et participation à la gestion de projet en méthode Agile. Collaboration avec l'équipe pour améliorer les performances et la qualité du code.
+            Développement de fonctionnalités logicielles visant a interagir avec une API REST d'une ERP, de tests unitaires et participation à la gestion de projet en méthode Agile. Collaboration avec l'équipe pour améliorer les performances et la qualité du code.
             </p>
+                <li><strong>Mot clés :</strong> Java, Python, Talend, GitHub, ERP, Tests Unitaires, API REST</li>
+            </ul>
         </div>
         </div>
         <!-- Expérience 2 -->
