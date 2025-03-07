@@ -50,8 +50,8 @@
             <li class="nav-item"><a class="nav-link" href="#a-propos">À propos</a></li>
             <li class="nav-item"><a class="nav-link" href="#experience">Expérience Pro</a></li>
             <li class="nav-item"><a class="nav-link" href="#formation">Formation</a></li>
-            <li class="nav-item"><a class="nav-link" href="#projets">Projets</a></li>
             <li class="nav-item"><a class="nav-link" href="#competences">Compétences</a></li>
+            <li class="nav-item"><a class="nav-link" href="#projets">Projets</a></li>
             <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
         </ul>
         </div>
