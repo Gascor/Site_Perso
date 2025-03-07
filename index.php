@@ -43,27 +43,30 @@
     </div>
   </section>
 
-  <!-- SECTION À PROPOS DE MOI -->
-  <section id="a-propos" class="container mb-5" data-aos="fade-up">
+    <!-- SECTION À PROPOS DE MOI -->
+    <section id="a-propos" class="container mb-5" data-aos="fade-up">
     <h2 class="mb-4 text-uppercase">À propos de moi</h2>
     <div class="row">
-      <div class="col-md-8">
+        <div class="col-md-8">
         <p>
-          Étudiant en BUT Informatique passionné par le développement web et d'applications, j'apprécie tout particulièrement la création de projets innovants. J’aime résoudre des problèmes et apprendre de nouvelles technologies. À travers mes expériences, j’ai développé des compétences en PHP, JavaScript et en gestion de projets collaboratifs.
+            Passionné par le développement web et d'applications, je suis toujours à l'affût de nouvelles technologies pour créer des projets innovants et résoudre des problèmes complexes. Mon parcours en BUT Informatique m’a permis d’acquérir une solide base en programmation et gestion de projets, et j’aime travailler en équipe pour relever des défis ambitieux.
         </p>
         <p>
-          Je suis toujours à la recherche de nouveaux défis pour approfondir mes connaissances et partager mes idées.
+            En parallèle de mes études, je suis engagé au sein du BDE AE2V, où j’ai occupé les postes de Secrétaire (2023-2025) et de Responsable Logistique (2022-2023). Cette expérience associative m’a permis de développer mon sens de l’organisation, mes compétences en communication et mon esprit d’initiative.
+        </p>
+        <p>
+            <strong>Qualités :</strong> Travail d'équipe, volontaire, polyvalent, autonome.
         </p>
         <!-- Bouton de téléchargement du CV -->
         <a href="files/CV.pdf" class="btn btn-success" download="CV-LucasDaSilvaFerreira">
-          <i class="fas fa-download"></i> Télécharger mon CV
+            <i class="fas fa-download"></i> Télécharger mon CV
         </a>
-      </div>
-      <div class="col-md-4 text-center">
+        </div>
+        <div class="col-md-4 text-center">
         <img src="images/lucas.jpg" alt="Photo de Lucas" class="img-fluid rounded" style="max-width: 200px;">
-      </div>
+        </div>
     </div>
-  </section>
+    </section>
 
   <!-- SECTION EXPÉRIENCE PROFESSIONNELLE -->
   <section id="experience" class="container mb-5" data-aos="fade-up">
@@ -146,28 +149,83 @@
     </div>
   </section>
 
-  <!-- SECTION COMPÉTENCES (AVEC LOGOS) -->
-  <section id="competences" class="container mb-5" data-aos="fade-up">
+    <!-- SECTION COMPÉTENCES (AVEC PETITES CASES) -->
+    <section id="competences" class="container mb-5" data-aos="fade-up">
     <h2 class="mb-4">Compétences Informatiques</h2>
     <div class="row text-center">
-      <div class="col-6 col-md-2 mb-4">
-        <img src="images/logo_html.png" alt="HTML" style="max-width: 60px;">
-        <p class="mt-2">HTML</p>
-      </div>
-      <div class="col-6 col-md-2 mb-4">
-        <img src="images/logo_css.png" alt="CSS" style="max-width: 60px;">
-        <p class="mt-2">CSS</p>
-      </div>
-      <div class="col-6 col-md-2 mb-4">
-        <img src="images/logo_js.png" alt="JavaScript" style="max-width: 60px;">
-        <p class="mt-2">JavaScript</p>
-      </div>
-      <div class="col-6 col-md-2 mb-4">
-        <img src="images/logo_php.png" alt="PHP" style="max-width: 60px;">
-        <p class="mt-2">PHP</p>
-      </div>
+        <!-- Compétence 1: HTML -->
+        <div class="col-6 col-md-2 mb-4">
+        <div class="competence-box p-2 border rounded">
+            <img src="images/logo_html.png" alt="HTML" style="max-width: 60px;">
+            <p class="mt-2">HTML</p>
+        </div>
+        </div>
+        <!-- Compétence 2: CSS -->
+        <div class="col-6 col-md-2 mb-4">
+        <div class="competence-box p-2 border rounded">
+            <img src="images/logo_css.png" alt="CSS" style="max-width: 60px;">
+            <p class="mt-2">CSS</p>
+        </div>
+        </div>
+        <!-- Compétence 3: JavaScript -->
+        <div class="col-6 col-md-2 mb-4">
+        <div class="competence-box p-2 border rounded">
+            <img src="images/logo_js.png" alt="JavaScript" style="max-width: 60px;">
+            <p class="mt-2">JavaScript</p>
+        </div>
+        </div>
+        <!-- Compétence 4: PHP -->
+        <div class="col-6 col-md-2 mb-4">
+        <div class="competence-box p-2 border rounded">
+            <img src="images/logo_php.png" alt="PHP" style="max-width: 60px;">
+            <p class="mt-2">PHP</p>
+        </div>
+        </div>
+        <!-- Compétence 5: Python -->
+        <div class="col-6 col-md-2 mb-4">
+        <div class="competence-box p-2 border rounded">
+            <img src="images/logo_python.png" alt="Python" style="max-width: 60px;">
+            <p class="mt-2">Python</p>
+        </div>
+        </div>
+        <!-- Compétence 6: Java -->
+        <div class="col-6 col-md-2 mb-4">
+        <div class="competence-box p-2 border rounded">
+            <img src="images/logo_java.png" alt="Java" style="max-width: 60px;">
+            <p class="mt-2">Java</p>
+        </div>
+        </div>
+        <!-- Compétence 7: C++ -->
+        <div class="col-6 col-md-2 mb-4">
+        <div class="competence-box p-2 border rounded">
+            <img src="images/logo_cpp.png" alt="C++" style="max-width: 60px;">
+            <p class="mt-2">C++</p>
+        </div>
+        </div>
+        <!-- Compétence 8: SQL -->
+        <div class="col-6 col-md-2 mb-4">
+        <div class="competence-box p-2 border rounded">
+            <img src="images/logo_sql.png" alt="SQL" style="max-width: 60px;">
+            <p class="mt-2">SQL</p>
+        </div>
+        </div>
+        <!-- Compétence 9: Docker -->
+        <div class="col-6 col-md-2 mb-4">
+        <div class="competence-box p-2 border rounded">
+            <img src="images/logo_docker.png" alt="Docker" style="max-width: 60px;">
+            <p class="mt-2">Docker</p>
+        </div>
+        </div>
+        <!-- Compétence 10: Git -->
+        <div class="col-6 col-md-2 mb-4">
+        <div class="competence-box p-2 border rounded">
+            <img src="images/logo_git.png" alt="Git" style="max-width: 60px;">
+            <p class="mt-2">Git</p>
+        </div>
+        </div>
     </div>
-  </section>
+    </section>
+
 
   <!-- SECTION PROJETS (BANNIÈRES) -->
   <section id="projets" class="container mb-5" data-aos="fade-up">
