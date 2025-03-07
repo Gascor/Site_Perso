@@ -157,7 +157,7 @@
         <div class="col-6 col-md-3 mb-4" data-aos="fade-up">
         <div class="card h-100 experience-hover p-3 text-center">
             <!-- Remplace par ton icône / logo si disponible -->
-            <img src="images/logo_scikit.png" alt="Scikit" style="max-width: 60px; margin: 0 auto;">
+            <img src="images/scikit.png" alt="Scikit" style="max-width: 60px; margin: 0 auto;">
             <h5 class="mt-3">Scikit</h5>
             <span class="badge bg-info">Intermédiaire</span>
         </div>
@@ -165,7 +165,7 @@
         <!-- Compétence 2 : Pandas -->
         <div class="col-6 col-md-3 mb-4" data-aos="fade-up">
         <div class="card h-100 experience-hover p-3 text-center">
-            <img src="images/logo_pandas.png" alt="Pandas" style="max-width: 60px; margin: 0 auto;">
+            <img src="images/pandas.png" alt="Pandas" style="max-width: 60px; margin: 0 auto;">
             <h5 class="mt-3">pandas</h5>
             <span class="badge bg-info">Avancé</span>
         </div>
@@ -173,7 +173,7 @@
         <!-- Compétence 3 : Numpy -->
         <div class="col-6 col-md-3 mb-4" data-aos="fade-up">
         <div class="card h-100 experience-hover p-3 text-center">
-            <img src="images/logo_numpy.png" alt="NumPy" style="max-width: 60px; margin: 0 auto;">
+            <img src="images/numpy.png" alt="NumPy" style="max-width: 60px; margin: 0 auto;">
             <h5 class="mt-3">NumPy</h5>
             <span class="badge bg-info">Avancé</span>
         </div>
@@ -181,7 +181,7 @@
         <!-- Compétence 4 : Python -->
         <div class="col-6 col-md-3 mb-4" data-aos="fade-up">
         <div class="card h-100 experience-hover p-3 text-center">
-            <img src="images/logo_python.png" alt="Python" style="max-width: 60px; margin: 0 auto;">
+            <img src="images/python.png" alt="Python" style="max-width: 60px; margin: 0 auto;">
             <h5 class="mt-3">Python</h5>
             <span class="badge bg-info">Avancé</span>
         </div>
@@ -189,7 +189,7 @@
         <!-- Compétence 5 : Java -->
         <div class="col-6 col-md-3 mb-4" data-aos="fade-up">
         <div class="card h-100 experience-hover p-3 text-center">
-            <img src="images/logo_java.png" alt="Java" style="max-width: 60px; margin: 0 auto;">
+            <img src="images/java.png" alt="Java" style="max-width: 60px; margin: 0 auto;">
             <h5 class="mt-3">Java</h5>
             <span class="badge bg-info">Avancé</span>
         </div>
@@ -197,7 +197,7 @@
         <!-- Compétence 6 : R -->
         <div class="col-6 col-md-3 mb-4" data-aos="fade-up">
         <div class="card h-100 experience-hover p-3 text-center">
-            <img src="images/logo_r.png" alt="R" style="max-width: 60px; margin: 0 auto;">
+            <img src="images/r.png" alt="R" style="max-width: 60px; margin: 0 auto;">
             <h5 class="mt-3">R</h5>
             <span class="badge bg-info">Intermédiaire</span>
         </div>
@@ -205,7 +205,7 @@
         <!-- Compétence 7 : C# -->
         <div class="col-6 col-md-3 mb-4" data-aos="fade-up">
         <div class="card h-100 experience-hover p-3 text-center">
-            <img src="images/logo_csharp.png" alt="C#" style="max-width: 60px; margin: 0 auto;">
+            <img src="images/csharp.png" alt="C#" style="max-width: 60px; margin: 0 auto;">
             <h5 class="mt-3">C#</h5>
             <span class="badge bg-info">Intermédiaire</span>
         </div>
@@ -213,7 +213,7 @@
         <!-- Compétence 8 : C -->
         <div class="col-6 col-md-3 mb-4" data-aos="fade-up">
         <div class="card h-100 experience-hover p-3 text-center">
-            <img src="images/logo_c.png" alt="C" style="max-width: 60px; margin: 0 auto;">
+            <img src="images/c.png" alt="C" style="max-width: 60px; margin: 0 auto;">
             <h5 class="mt-3">C</h5>
             <span class="badge bg-info">Avancé</span>
         </div>
@@ -221,7 +221,7 @@
         <!-- Compétence 9 : Vue -->
         <div class="col-6 col-md-3 mb-4" data-aos="fade-up">
         <div class="card h-100 experience-hover p-3 text-center">
-            <img src="images/logo_vue.png" alt="Vue.js" style="max-width: 60px; margin: 0 auto;">
+            <img src="images/vue.png" alt="Vue.js" style="max-width: 60px; margin: 0 auto;">
             <h5 class="mt-3">Vue.js</h5>
             <span class="badge bg-info">Intermédiaire</span>
         </div>
@@ -229,7 +229,7 @@
         <!-- Compétence 10 : Django -->
         <div class="col-6 col-md-3 mb-4" data-aos="fade-up">
         <div class="card h-100 experience-hover p-3 text-center">
-            <img src="images/logo_django.png" alt="Django" style="max-width: 60px; margin: 0 auto;">
+            <img src="images/django.png" alt="Django" style="max-width: 60px; margin: 0 auto;">
             <h5 class="mt-3">Django</h5>
             <span class="badge bg-info">Intermédiaire</span>
         </div>
@@ -237,7 +237,7 @@
         <!-- Compétence 11 : Angular -->
         <div class="col-6 col-md-3 mb-4" data-aos="fade-up">
         <div class="card h-100 experience-hover p-3 text-center">
-            <img src="images/logo_angular.png" alt="Angular" style="max-width: 60px; margin: 0 auto;">
+            <img src="images/angular.png" alt="Angular" style="max-width: 60px; margin: 0 auto;">
             <h5 class="mt-3">Angular</h5>
             <span class="badge bg-info">Intermédiaire</span>
         </div>
@@ -245,7 +245,7 @@
         <!-- Compétence 12 : HTML -->
         <div class="col-6 col-md-3 mb-4" data-aos="fade-up">
         <div class="card h-100 experience-hover p-3 text-center">
-            <img src="images/logo_html.png" alt="HTML" style="max-width: 60px; margin: 0 auto;">
+            <img src="images/html5.png" alt="HTML" style="max-width: 60px; margin: 0 auto;">
             <h5 class="mt-3">HTML</h5>
             <span class="badge bg-info">Avancé</span>
         </div>
@@ -253,7 +253,7 @@
         <!-- Compétence 13 : CSS -->
         <div class="col-6 col-md-3 mb-4" data-aos="fade-up">
         <div class="card h-100 experience-hover p-3 text-center">
-            <img src="images/logo_css.png" alt="CSS" style="max-width: 60px; margin: 0 auto;">
+            <img src="images/css3.png" alt="CSS" style="max-width: 60px; margin: 0 auto;">
             <h5 class="mt-3">CSS</h5>
             <span class="badge bg-info">Avancé</span>
         </div>
@@ -261,7 +261,7 @@
         <!-- Compétence 14 : PHP -->
         <div class="col-6 col-md-3 mb-4" data-aos="fade-up">
         <div class="card h-100 experience-hover p-3 text-center">
-            <img src="images/logo_php.png" alt="PHP" style="max-width: 60px; margin: 0 auto;">
+            <img src="images/php.png" alt="PHP" style="max-width: 60px; margin: 0 auto;">
             <h5 class="mt-3">PHP</h5>
             <span class="badge bg-info">Avancé</span>
         </div>
@@ -269,7 +269,7 @@
         <!-- Compétence 15 : JavaScript -->
         <div class="col-6 col-md-3 mb-4" data-aos="fade-up">
         <div class="card h-100 experience-hover p-3 text-center">
-            <img src="images/logo_js.png" alt="JavaScript" style="max-width: 60px; margin: 0 auto;">
+            <img src="images/js.png" alt="JavaScript" style="max-width: 60px; margin: 0 auto;">
             <h5 class="mt-3">JavaScript</h5>
             <span class="badge bg-info">Avancé</span>
         </div>
@@ -277,7 +277,7 @@
         <!-- Compétence 16 : MariaDB -->
         <div class="col-6 col-md-3 mb-4" data-aos="fade-up">
         <div class="card h-100 experience-hover p-3 text-center">
-            <img src="images/logo_mariadb.png" alt="MariaDB" style="max-width: 60px; margin: 0 auto;">
+            <img src="images/mariadb.png" alt="MariaDB" style="max-width: 60px; margin: 0 auto;">
             <h5 class="mt-3">MariaDB</h5>
             <span class="badge bg-info">Intermédiaire</span>
         </div>
@@ -285,7 +285,7 @@
         <!-- Compétence 17 : PostgreSQL -->
         <div class="col-6 col-md-3 mb-4" data-aos="fade-up">
         <div class="card h-100 experience-hover p-3 text-center">
-            <img src="images/logo_postgresql.png" alt="PostgreSQL" style="max-width: 60px; margin: 0 auto;">
+            <img src="images/postgre.png" alt="PostgreSQL" style="max-width: 60px; margin: 0 auto;">
             <h5 class="mt-3">PostgreSQL</h5>
             <span class="badge bg-info">Intermédiaire</span>
         </div>
@@ -293,7 +293,7 @@
         <!-- Compétence 18 : UE4 -->
         <div class="col-6 col-md-3 mb-4" data-aos="fade-up">
         <div class="card h-100 experience-hover p-3 text-center">
-            <img src="images/logo_ue4.png" alt="Unreal Engine 4" style="max-width: 60px; margin: 0 auto;">
+            <img src="images/ue4.png" alt="Unreal Engine 4" style="max-width: 60px; margin: 0 auto;">
             <h5 class="mt-3">UE4</h5>
             <span class="badge bg-info">Débutant</span>
         </div>
@@ -301,7 +301,7 @@
         <!-- Compétence 19 : Panda3D -->
         <div class="col-6 col-md-3 mb-4" data-aos="fade-up">
         <div class="card h-100 experience-hover p-3 text-center">
-            <img src="images/logo_panda3d.png" alt="Panda3D" style="max-width: 60px; margin: 0 auto;">
+            <img src="images/panda3d.png" alt="Panda3D" style="max-width: 60px; margin: 0 auto;">
             <h5 class="mt-3">Panda3D</h5>
             <span class="badge bg-info">Débutant</span>
         </div>
@@ -309,7 +309,7 @@
         <!-- Compétence 20 : Talend -->
         <div class="col-6 col-md-3 mb-4" data-aos="fade-up">
         <div class="card h-100 experience-hover p-3 text-center">
-            <img src="images/logo_talend.png" alt="Talend" style="max-width: 60px; margin: 0 auto;">
+            <img src="images/talend.png" alt="Talend" style="max-width: 60px; margin: 0 auto;">
             <h5 class="mt-3">Talend</h5>
             <span class="badge bg-info">Intermédiaire</span>
         </div>
@@ -317,7 +317,7 @@
         <!-- Compétence 21 : Flask / JEE -->
         <div class="col-6 col-md-3 mb-4" data-aos="fade-up">
         <div class="card h-100 experience-hover p-3 text-center">
-            <img src="images/logo_flask.png" alt="Flask" style="max-width: 60px; margin: 0 auto;">
+            <img src="images/flask.png" alt="Flask" style="max-width: 60px; margin: 0 auto;">
             <h5 class="mt-3">Flask / JEE</h5>
             <span class="badge bg-info">Intermédiaire</span>
         </div>
@@ -325,7 +325,7 @@
         <!-- Compétence 22 : VBA -->
         <div class="col-6 col-md-3 mb-4" data-aos="fade-up">
         <div class="card h-100 experience-hover p-3 text-center">
-            <img src="images/logo_vba.png" alt="VBA" style="max-width: 60px; margin: 0 auto;">
+            <img src="images/vba.png" alt="VBA" style="max-width: 60px; margin: 0 auto;">
             <h5 class="mt-3">VBA</h5>
             <span class="badge bg-info">Intermédiaire</span>
         </div>
@@ -333,7 +333,7 @@
         <!-- Compétence 23 : Docker -->
         <div class="col-6 col-md-3 mb-4" data-aos="fade-up">
         <div class="card h-100 experience-hover p-3 text-center">
-            <img src="images/logo_docker.png" alt="Docker" style="max-width: 60px; margin: 0 auto;">
+            <img src="images/docker.png" alt="Docker" style="max-width: 60px; margin: 0 auto;">
             <h5 class="mt-3">Docker</h5>
             <span class="badge bg-info">Intermédiaire</span>
         </div>
@@ -341,7 +341,7 @@
         <!-- Compétence 24 : Bash / PowerShell -->
         <div class="col-6 col-md-3 mb-4" data-aos="fade-up">
         <div class="card h-100 experience-hover p-3 text-center">
-            <img src="images/logo_bash.png" alt="Bash/PowerShell" style="max-width: 60px; margin: 0 auto;">
+            <img src="images/bashpowershell.jpg" alt="Bash/PowerShell" style="max-width: 60px; margin: 0 auto;">
             <h5 class="mt-3">Bash / PowerShell</h5>
             <span class="badge bg-info">Intermédiaire</span>
         </div>
