@@ -1,6 +1,21 @@
 <?php include 'includes/header.php'; ?>
 
 <main>
+  <!-- SECTION PRÉSENTATION -->
+  <section id="presentation" class="container mt-4" data-aos="fade-up">
+    <div class="row align-items-center">
+      <div class="col-md-4">
+        <img src="images/lucas.jpg" alt="Photo de Lucas" class="img-fluid rounded-circle">
+      </div>
+      <div class="col-md-8">
+        <h1>Lucas Da Silva Ferreira</h1>
+        <p class="lead">
+          Étudiant en BUT Informatique (3e année), en recherche d’un stage de 14 à 20 semaines.
+        </p>
+      </div>
+    </div>
+  </section>
+  
   <!-- SECTION COORDONNÉES -->
   <section id="coordonnees" class="container mb-5" data-aos="fade-up">
     <h2 class="mb-4">Coordonnées</h2>
