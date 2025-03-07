@@ -157,7 +157,7 @@
         <div class="col-6 col-md-3 mb-4" data-aos="fade-up">
         <div class="card h-100 experience-hover p-3 text-center">
             <!-- Remplace par ton icône / logo si disponible -->
-            <img src="images/scikit.png" alt="Scikit" style="max-width: 60px; margin: 0 auto;">
+            <img src="images/scikit.png" alt="Scikit" style="max-width: 85px; margin: 0 auto;">
             <h5 class="mt-3">Scikit</h5>
             <span class="badge bg-info">Intermédiaire</span>
         </div>
@@ -165,7 +165,7 @@
         <!-- Compétence 2 : Pandas -->
         <div class="col-6 col-md-3 mb-4" data-aos="fade-up">
         <div class="card h-100 experience-hover p-3 text-center">
-            <img src="images/pandas.png" alt="Pandas" style="max-width: 60px; margin: 0 auto;">
+            <img src="images/pandas.png" alt="Pandas" style="max-width: 70px; margin: 0 auto;">
             <h5 class="mt-3">pandas</h5>
             <span class="badge bg-info">Avancé</span>
         </div>
@@ -173,7 +173,7 @@
         <!-- Compétence 3 : Numpy -->
         <div class="col-6 col-md-3 mb-4" data-aos="fade-up">
         <div class="card h-100 experience-hover p-3 text-center">
-            <img src="images/numpy.png" alt="NumPy" style="max-width: 60px; margin: 0 auto;">
+            <img src="images/numpy.png" alt="NumPy" style="max-width: 70px; margin: 0 auto;">
             <h5 class="mt-3">NumPy</h5>
             <span class="badge bg-info">Avancé</span>
         </div>
@@ -197,7 +197,7 @@
         <!-- Compétence 6 : R -->
         <div class="col-6 col-md-3 mb-4" data-aos="fade-up">
         <div class="card h-100 experience-hover p-3 text-center">
-            <img src="images/r.png" alt="R" style="max-width: 60px; margin: 0 auto;">
+            <img src="images/r.png" alt="R" style="max-width: 110px; margin: 0 auto;">
             <h5 class="mt-3">R</h5>
             <span class="badge bg-info">Intermédiaire</span>
         </div>
@@ -205,7 +205,7 @@
         <!-- Compétence 7 : C# -->
         <div class="col-6 col-md-3 mb-4" data-aos="fade-up">
         <div class="card h-100 experience-hover p-3 text-center">
-            <img src="images/csharp.png" alt="C#" style="max-width: 60px; margin: 0 auto;">
+            <img src="images/csharp.png" alt="C#" style="max-width: 90px; margin: 0 auto;">
             <h5 class="mt-3">C#</h5>
             <span class="badge bg-info">Intermédiaire</span>
         </div>
@@ -213,7 +213,7 @@
         <!-- Compétence 8 : C -->
         <div class="col-6 col-md-3 mb-4" data-aos="fade-up">
         <div class="card h-100 experience-hover p-3 text-center">
-            <img src="images/c.png" alt="C" style="max-width: 60px; margin: 0 auto;">
+            <img src="images/c.png" alt="C" style="max-width: 90px; margin: 0 auto;">
             <h5 class="mt-3">C</h5>
             <span class="badge bg-info">Avancé</span>
         </div>
