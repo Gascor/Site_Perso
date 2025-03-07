@@ -91,4 +91,7 @@
     border-color: #249CC5;
     color: #2c2c3c !important;
   }
-  
+  .competence-box {
+    background-color: rgba(46, 181, 224, 0.1); /* fond léger bleu cyan transparent */
+  }
+    

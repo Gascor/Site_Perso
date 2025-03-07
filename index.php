@@ -68,163 +68,287 @@
     </div>
     </section>
 
-  <!-- SECTION EXPÉRIENCE PROFESSIONNELLE -->
-  <section id="experience" class="container mb-5" data-aos="fade-up">
-    <h2 class="mb-4 text-uppercase">Expérience Pro</h2>
-    <!-- Expérience 1 -->
-    <div class="row mb-4 p-3 experience-item" data-aos="fade-up">
-      <div class="col-md-3 text-md-end">
-        <strong>avril 2024 - juil. 2024</strong>
-        <p>Stage</p>
-      </div>
-      <div class="col-md-9">
-        <h5 class="mb-1">Stagiaire Développeur Full-Stack</h5>
-        <p class="mb-1"><em>Knave</em></p>
-        <p class="mb-0">
-          Développement de fonctionnalités logicielles, de tests unitaires et participation à la gestion de projet en méthode Agile. Collaboration avec l'équipe pour améliorer les performances et la qualité du code.
-        </p>
-      </div>
-    </div>
-    <!-- Expérience 2 -->
-    <div class="row mb-4 p-3 experience-item" data-aos="fade-up">
-      <div class="col-md-3 text-md-end">
-        <strong>août 2023 - aujourd'hui</strong>
-        <p>CDI Temps partiel étudiant</p>
-      </div>
-      <div class="col-md-9">
-        <h5 class="mb-1">Polyvalent en Conseil & Vente</h5>
-        <p class="mb-1"><em>Auchan Hypermarché de Plaisir</em></p>
-        <p class="mb-0">
-          Polyvalence Caisse/Rayon. Conseil & Vente, rayon Multimédia. Vente de produits multimédia et électro-ménager.
-        </p>
-      </div>
-    </div>
-    <!-- Expérience 3 -->
-    <div class="row mb-4 p-3 experience-item" data-aos="fade-up">
-      <div class="col-md-3 text-md-end">
-        <strong>juil. 2021 - août 2023</strong>
-        <p>CDI Temps partiel étudiant</p>
-      </div>
-      <div class="col-md-9">
-        <h5 class="mb-1">Équipier Magasin</h5>
-        <p class="mb-1"><em>Auchan Hypermarché de Plaisir</em></p>
-        <p class="mb-0">
-          Manutention de rayon et encaissement, suivi client, fidélisation.
-        </p>
-      </div>
-    </div>
-  </section>
+    <!-- SECTION EXPÉRIENCE PROFESSIONNELLE -->
+    <section id="experience" class="container mb-5" data-aos="fade-up">
+        <h2 class="mb-4 text-uppercase">Expérience Pro</h2>
+        <!-- Expérience 1 -->
+        <div class="row mb-4 p-3 experience-item" data-aos="fade-up">
+        <div class="col-md-3 text-md-end">
+            <strong>avril 2024 - juil. 2024</strong>
+            <p>Stage</p>
+        </div>
+        <div class="col-md-9">
+            <h5 class="mb-1">Stagiaire Développeur Full-Stack</h5>
+            <p class="mb-1"><em>Knave</em></p>
+            <p class="mb-0">
+            Développement de fonctionnalités logicielles, de tests unitaires et participation à la gestion de projet en méthode Agile. Collaboration avec l'équipe pour améliorer les performances et la qualité du code.
+            </p>
+        </div>
+        </div>
+        <!-- Expérience 2 -->
+        <div class="row mb-4 p-3 experience-item" data-aos="fade-up">
+        <div class="col-md-3 text-md-end">
+            <strong>août 2023 - aujourd'hui</strong>
+            <p>CDI Temps partiel étudiant</p>
+        </div>
+        <div class="col-md-9">
+            <h5 class="mb-1">Polyvalent en Conseil & Vente</h5>
+            <p class="mb-1"><em>Auchan Hypermarché de Plaisir</em></p>
+            <p class="mb-0">
+            Polyvalence Caisse/Rayon. Conseil & Vente, rayon Multimédia. Vente de produits multimédia et électro-ménager.
+            </p>
+        </div>
+        </div>
+        <!-- Expérience 3 -->
+        <div class="row mb-4 p-3 experience-item" data-aos="fade-up">
+        <div class="col-md-3 text-md-end">
+            <strong>juil. 2021 - août 2023</strong>
+            <p>CDI Temps partiel étudiant</p>
+        </div>
+        <div class="col-md-9">
+            <h5 class="mb-1">Équipier Magasin</h5>
+            <p class="mb-1"><em>Auchan Hypermarché de Plaisir</em></p>
+            <p class="mb-0">
+            Manutention de rayon et encaissement, suivi client, fidélisation.
+            </p>
+        </div>
+        </div>
+    </section>
 
-  <!-- SECTION FORMATION -->
-  <section id="formation" class="container mb-5" data-aos="fade-up">
-    <h2 class="mb-4 text-uppercase">Formation</h2>
-    <!-- Formation 1 : BUT Informatique -->
-    <div class="row mb-4 p-3 formation-item" data-aos="fade-up">
-      <div class="col-md-3 text-md-end">
-        <strong>2022 - 2025</strong><br>
-        IUT de Vélizy,<br>
-        78140 Vélizy-Villacoublay
-      </div>
-      <div class="col-md-9">
-        <h5 class="mb-1">BUT Informatique</h5>
-        <p class="mb-0">
-          Apprentissage de la Programmation et de divers savoirs en Droit, Gestion, Management, Économie, Mathématiques, Optimisation, Machine Learning, Calcul Hautes Performances...
-        </p>
-      </div>
-    </div>
-    <!-- Formation 2 : Bac Général -->
-    <div class="row mb-4 p-3 formation-item" data-aos="fade-up">
-      <div class="col-md-3 text-md-end">
-        <strong>2019 - 2022</strong><br>
-        Lycée Jean Vilar,<br>
-        78370 Plaisir
-      </div>
-      <div class="col-md-9">
-        <h5 class="mb-1">Bac Général</h5>
-        <p class="mb-0">
-          Spécialisation : Mathématique, Physique-Chimie<br>
-          Spécialisation secondaire : SVT
-        </p>
-      </div>
-    </div>
-  </section>
+    <!-- SECTION FORMATION -->
+    <section id="formation" class="container mb-5" data-aos="fade-up">
+        <h2 class="mb-4 text-uppercase">Formation</h2>
+        <!-- Formation 1 : BUT Informatique -->
+        <div class="row mb-4 p-3 formation-item" data-aos="fade-up">
+        <div class="col-md-3 text-md-end">
+            <strong>2022 - 2025</strong><br>
+            IUT de Vélizy,<br>
+            78140 Vélizy-Villacoublay
+        </div>
+        <div class="col-md-9">
+            <h5 class="mb-1">BUT Informatique</h5>
+            <p class="mb-0">
+            Apprentissage de la Programmation et de divers savoirs en Droit, Gestion, Management, Économie, Mathématiques, Optimisation, Machine Learning, Calcul Hautes Performances...
+            </p>
+        </div>
+        </div>
+        <!-- Formation 2 : Bac Général -->
+        <div class="row mb-4 p-3 formation-item" data-aos="fade-up">
+        <div class="col-md-3 text-md-end">
+            <strong>2019 - 2022</strong><br>
+            Lycée Jean Vilar,<br>
+            78370 Plaisir
+        </div>
+        <div class="col-md-9">
+            <h5 class="mb-1">Bac Général</h5>
+            <p class="mb-0">
+            Spécialisation : Mathématique, Physique-Chimie<br>
+            Spécialisation secondaire : SVT
+            </p>
+        </div>
+        </div>
+    </section>
 
-    <!-- SECTION COMPÉTENCES (AVEC PETITES CASES) -->
+    <!-- SECTION COMPÉTENCES (PETITES CASES ANIMÉES) -->
     <section id="competences" class="container mb-5" data-aos="fade-up">
     <h2 class="mb-4">Compétences Informatiques</h2>
-    <div class="row text-center">
-        <!-- Compétence 1: HTML -->
-        <div class="col-6 col-md-2 mb-4">
-        <div class="competence-box p-2 border rounded">
-            <img src="images/logo_html.png" alt="HTML" style="max-width: 60px;">
-            <p class="mt-2">HTML</p>
+    <div class="row">
+        <!-- Compétence 1 : Scikit -->
+        <div class="col-6 col-md-3 mb-4" data-aos="fade-up">
+        <div class="card h-100 experience-hover p-3 text-center">
+            <!-- Remplace par ton icône / logo si disponible -->
+            <img src="images/logo_scikit.png" alt="Scikit" style="max-width: 60px; margin: 0 auto;">
+            <h5 class="mt-3">Scikit</h5>
+            <span class="badge bg-info">Intermédiaire</span>
         </div>
         </div>
-        <!-- Compétence 2: CSS -->
-        <div class="col-6 col-md-2 mb-4">
-        <div class="competence-box p-2 border rounded">
-            <img src="images/logo_css.png" alt="CSS" style="max-width: 60px;">
-            <p class="mt-2">CSS</p>
+        <!-- Compétence 2 : Pandas -->
+        <div class="col-6 col-md-3 mb-4" data-aos="fade-up">
+        <div class="card h-100 experience-hover p-3 text-center">
+            <img src="images/logo_pandas.png" alt="Pandas" style="max-width: 60px; margin: 0 auto;">
+            <h5 class="mt-3">pandas</h5>
+            <span class="badge bg-info">Avancé</span>
         </div>
         </div>
-        <!-- Compétence 3: JavaScript -->
-        <div class="col-6 col-md-2 mb-4">
-        <div class="competence-box p-2 border rounded">
-            <img src="images/logo_js.png" alt="JavaScript" style="max-width: 60px;">
-            <p class="mt-2">JavaScript</p>
+        <!-- Compétence 3 : Numpy -->
+        <div class="col-6 col-md-3 mb-4" data-aos="fade-up">
+        <div class="card h-100 experience-hover p-3 text-center">
+            <img src="images/logo_numpy.png" alt="NumPy" style="max-width: 60px; margin: 0 auto;">
+            <h5 class="mt-3">NumPy</h5>
+            <span class="badge bg-info">Avancé</span>
         </div>
         </div>
-        <!-- Compétence 4: PHP -->
-        <div class="col-6 col-md-2 mb-4">
-        <div class="competence-box p-2 border rounded">
-            <img src="images/logo_php.png" alt="PHP" style="max-width: 60px;">
-            <p class="mt-2">PHP</p>
+        <!-- Compétence 4 : Python -->
+        <div class="col-6 col-md-3 mb-4" data-aos="fade-up">
+        <div class="card h-100 experience-hover p-3 text-center">
+            <img src="images/logo_python.png" alt="Python" style="max-width: 60px; margin: 0 auto;">
+            <h5 class="mt-3">Python</h5>
+            <span class="badge bg-info">Avancé</span>
         </div>
         </div>
-        <!-- Compétence 5: Python -->
-        <div class="col-6 col-md-2 mb-4">
-        <div class="competence-box p-2 border rounded">
-            <img src="images/logo_python.png" alt="Python" style="max-width: 60px;">
-            <p class="mt-2">Python</p>
+        <!-- Compétence 5 : Java -->
+        <div class="col-6 col-md-3 mb-4" data-aos="fade-up">
+        <div class="card h-100 experience-hover p-3 text-center">
+            <img src="images/logo_java.png" alt="Java" style="max-width: 60px; margin: 0 auto;">
+            <h5 class="mt-3">Java</h5>
+            <span class="badge bg-info">Avancé</span>
         </div>
         </div>
-        <!-- Compétence 6: Java -->
-        <div class="col-6 col-md-2 mb-4">
-        <div class="competence-box p-2 border rounded">
-            <img src="images/logo_java.png" alt="Java" style="max-width: 60px;">
-            <p class="mt-2">Java</p>
+        <!-- Compétence 6 : R -->
+        <div class="col-6 col-md-3 mb-4" data-aos="fade-up">
+        <div class="card h-100 experience-hover p-3 text-center">
+            <img src="images/logo_r.png" alt="R" style="max-width: 60px; margin: 0 auto;">
+            <h5 class="mt-3">R</h5>
+            <span class="badge bg-info">Intermédiaire</span>
         </div>
         </div>
-        <!-- Compétence 7: C++ -->
-        <div class="col-6 col-md-2 mb-4">
-        <div class="competence-box p-2 border rounded">
-            <img src="images/logo_cpp.png" alt="C++" style="max-width: 60px;">
-            <p class="mt-2">C++</p>
+        <!-- Compétence 7 : C# -->
+        <div class="col-6 col-md-3 mb-4" data-aos="fade-up">
+        <div class="card h-100 experience-hover p-3 text-center">
+            <img src="images/logo_csharp.png" alt="C#" style="max-width: 60px; margin: 0 auto;">
+            <h5 class="mt-3">C#</h5>
+            <span class="badge bg-info">Intermédiaire</span>
         </div>
         </div>
-        <!-- Compétence 8: SQL -->
-        <div class="col-6 col-md-2 mb-4">
-        <div class="competence-box p-2 border rounded">
-            <img src="images/logo_sql.png" alt="SQL" style="max-width: 60px;">
-            <p class="mt-2">SQL</p>
+        <!-- Compétence 8 : C -->
+        <div class="col-6 col-md-3 mb-4" data-aos="fade-up">
+        <div class="card h-100 experience-hover p-3 text-center">
+            <img src="images/logo_c.png" alt="C" style="max-width: 60px; margin: 0 auto;">
+            <h5 class="mt-3">C</h5>
+            <span class="badge bg-info">Avancé</span>
         </div>
         </div>
-        <!-- Compétence 9: Docker -->
-        <div class="col-6 col-md-2 mb-4">
-        <div class="competence-box p-2 border rounded">
-            <img src="images/logo_docker.png" alt="Docker" style="max-width: 60px;">
-            <p class="mt-2">Docker</p>
+        <!-- Compétence 9 : Vue -->
+        <div class="col-6 col-md-3 mb-4" data-aos="fade-up">
+        <div class="card h-100 experience-hover p-3 text-center">
+            <img src="images/logo_vue.png" alt="Vue.js" style="max-width: 60px; margin: 0 auto;">
+            <h5 class="mt-3">Vue.js</h5>
+            <span class="badge bg-info">Intermédiaire</span>
         </div>
         </div>
-        <!-- Compétence 10: Git -->
-        <div class="col-6 col-md-2 mb-4">
-        <div class="competence-box p-2 border rounded">
-            <img src="images/logo_git.png" alt="Git" style="max-width: 60px;">
-            <p class="mt-2">Git</p>
+        <!-- Compétence 10 : Django -->
+        <div class="col-6 col-md-3 mb-4" data-aos="fade-up">
+        <div class="card h-100 experience-hover p-3 text-center">
+            <img src="images/logo_django.png" alt="Django" style="max-width: 60px; margin: 0 auto;">
+            <h5 class="mt-3">Django</h5>
+            <span class="badge bg-info">Intermédiaire</span>
+        </div>
+        </div>
+        <!-- Compétence 11 : Angular -->
+        <div class="col-6 col-md-3 mb-4" data-aos="fade-up">
+        <div class="card h-100 experience-hover p-3 text-center">
+            <img src="images/logo_angular.png" alt="Angular" style="max-width: 60px; margin: 0 auto;">
+            <h5 class="mt-3">Angular</h5>
+            <span class="badge bg-info">Intermédiaire</span>
+        </div>
+        </div>
+        <!-- Compétence 12 : HTML -->
+        <div class="col-6 col-md-3 mb-4" data-aos="fade-up">
+        <div class="card h-100 experience-hover p-3 text-center">
+            <img src="images/logo_html.png" alt="HTML" style="max-width: 60px; margin: 0 auto;">
+            <h5 class="mt-3">HTML</h5>
+            <span class="badge bg-info">Avancé</span>
+        </div>
+        </div>
+        <!-- Compétence 13 : CSS -->
+        <div class="col-6 col-md-3 mb-4" data-aos="fade-up">
+        <div class="card h-100 experience-hover p-3 text-center">
+            <img src="images/logo_css.png" alt="CSS" style="max-width: 60px; margin: 0 auto;">
+            <h5 class="mt-3">CSS</h5>
+            <span class="badge bg-info">Avancé</span>
+        </div>
+        </div>
+        <!-- Compétence 14 : PHP -->
+        <div class="col-6 col-md-3 mb-4" data-aos="fade-up">
+        <div class="card h-100 experience-hover p-3 text-center">
+            <img src="images/logo_php.png" alt="PHP" style="max-width: 60px; margin: 0 auto;">
+            <h5 class="mt-3">PHP</h5>
+            <span class="badge bg-info">Avancé</span>
+        </div>
+        </div>
+        <!-- Compétence 15 : JavaScript -->
+        <div class="col-6 col-md-3 mb-4" data-aos="fade-up">
+        <div class="card h-100 experience-hover p-3 text-center">
+            <img src="images/logo_js.png" alt="JavaScript" style="max-width: 60px; margin: 0 auto;">
+            <h5 class="mt-3">JavaScript</h5>
+            <span class="badge bg-info">Avancé</span>
+        </div>
+        </div>
+        <!-- Compétence 16 : MariaDB -->
+        <div class="col-6 col-md-3 mb-4" data-aos="fade-up">
+        <div class="card h-100 experience-hover p-3 text-center">
+            <img src="images/logo_mariadb.png" alt="MariaDB" style="max-width: 60px; margin: 0 auto;">
+            <h5 class="mt-3">MariaDB</h5>
+            <span class="badge bg-info">Intermédiaire</span>
+        </div>
+        </div>
+        <!-- Compétence 17 : PostgreSQL -->
+        <div class="col-6 col-md-3 mb-4" data-aos="fade-up">
+        <div class="card h-100 experience-hover p-3 text-center">
+            <img src="images/logo_postgresql.png" alt="PostgreSQL" style="max-width: 60px; margin: 0 auto;">
+            <h5 class="mt-3">PostgreSQL</h5>
+            <span class="badge bg-info">Intermédiaire</span>
+        </div>
+        </div>
+        <!-- Compétence 18 : UE4 -->
+        <div class="col-6 col-md-3 mb-4" data-aos="fade-up">
+        <div class="card h-100 experience-hover p-3 text-center">
+            <img src="images/logo_ue4.png" alt="Unreal Engine 4" style="max-width: 60px; margin: 0 auto;">
+            <h5 class="mt-3">UE4</h5>
+            <span class="badge bg-info">Débutant</span>
+        </div>
+        </div>
+        <!-- Compétence 19 : Panda3D -->
+        <div class="col-6 col-md-3 mb-4" data-aos="fade-up">
+        <div class="card h-100 experience-hover p-3 text-center">
+            <img src="images/logo_panda3d.png" alt="Panda3D" style="max-width: 60px; margin: 0 auto;">
+            <h5 class="mt-3">Panda3D</h5>
+            <span class="badge bg-info">Débutant</span>
+        </div>
+        </div>
+        <!-- Compétence 20 : Talend -->
+        <div class="col-6 col-md-3 mb-4" data-aos="fade-up">
+        <div class="card h-100 experience-hover p-3 text-center">
+            <img src="images/logo_talend.png" alt="Talend" style="max-width: 60px; margin: 0 auto;">
+            <h5 class="mt-3">Talend</h5>
+            <span class="badge bg-info">Intermédiaire</span>
+        </div>
+        </div>
+        <!-- Compétence 21 : Flask / JEE -->
+        <div class="col-6 col-md-3 mb-4" data-aos="fade-up">
+        <div class="card h-100 experience-hover p-3 text-center">
+            <img src="images/logo_flask.png" alt="Flask" style="max-width: 60px; margin: 0 auto;">
+            <h5 class="mt-3">Flask / JEE</h5>
+            <span class="badge bg-info">Intermédiaire</span>
+        </div>
+        </div>
+        <!-- Compétence 22 : VBA -->
+        <div class="col-6 col-md-3 mb-4" data-aos="fade-up">
+        <div class="card h-100 experience-hover p-3 text-center">
+            <img src="images/logo_vba.png" alt="VBA" style="max-width: 60px; margin: 0 auto;">
+            <h5 class="mt-3">VBA</h5>
+            <span class="badge bg-info">Intermédiaire</span>
+        </div>
+        </div>
+        <!-- Compétence 23 : Docker -->
+        <div class="col-6 col-md-3 mb-4" data-aos="fade-up">
+        <div class="card h-100 experience-hover p-3 text-center">
+            <img src="images/logo_docker.png" alt="Docker" style="max-width: 60px; margin: 0 auto;">
+            <h5 class="mt-3">Docker</h5>
+            <span class="badge bg-info">Intermédiaire</span>
+        </div>
+        </div>
+        <!-- Compétence 24 : Bash / PowerShell -->
+        <div class="col-6 col-md-3 mb-4" data-aos="fade-up">
+        <div class="card h-100 experience-hover p-3 text-center">
+            <img src="images/logo_bash.png" alt="Bash/PowerShell" style="max-width: 60px; margin: 0 auto;">
+            <h5 class="mt-3">Bash / PowerShell</h5>
+            <span class="badge bg-info">Intermédiaire</span>
         </div>
         </div>
     </div>
     </section>
+
 
 
   <!-- SECTION PROJETS (BANNIÈRES) -->
