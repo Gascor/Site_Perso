@@ -187,7 +187,7 @@
                 <li><strong>Technologies :</strong> Raspberry Pi OS, Scripts d’installation, SSH, FTP, Interface Web, HTML/CSS, JavaScript, NodeJS, MPI</li>
                 <li><strong>Calcul Parallèle :</strong> Répartition dynamique des tâches lourdes (Pi 4) et légères (Pi Zero)</li>
                 </ul>
-                <a href="#" class="btn btn-primary">Voir le projet</a>
+                <a href="https://github.com/Farandjis/Cluster" class="btn btn-primary">Voir le projet</a>
             </div>
             </div>
         </div>
@@ -206,7 +206,7 @@
                 <li><strong>Objectif :</strong> Permettre la saisie et le suivi de tickets (Ouvert, En cours, Fermé)</li>
                 <li><strong>Rôles :</strong> Visiteur, Utilisateur, Admin web, Technicien, Admin système</li>
                 </ul>
-                <a href="#" class="btn btn-primary">Voir le projet</a>
+                <a href="https://github.com/brevalferrari/Macrosoft-Helpdesk" class="btn btn-primary">Voir le projet</a>
             </div>
             </div>
         </div>
@@ -236,30 +236,35 @@
                 <li><strong>Approche :</strong> Cycle en V récursif, tests automatisés, algorithmes gloutons (efficace / exhaustif)</li>
             </ul>
             <!-- Lien vers plus de détails (GitHub, README, doc...) -->
-            <a href="#" class="btn btn-primary">Voir le projet</a>
+            <a href="https://github.com/Gascor/SAE_2.01-02-05_RPG-SIMULATOR" class="btn btn-primary">Voir le projet</a>
             </div>
         </div>
         </div>
 
 
-      <!-- Projet 2 : Macrosoft Helpdesk -->
-      <div class="col-md-6 mb-4" data-aos="fade-up">
+        <!-- Projet : Slashed Project - Management Console -->
+        <div class="col-md-6 mb-4" data-aos="fade-up">
         <div class="card h-100 experience-hover">
-          <img src="images/macrosoft-helpdesk.png" class="card-img-top" alt="Bannière du projet Macrosoft Helpdesk" style="height: 200px; object-fit: cover;">
-          <div class="card-body">
-            <h5 class="card-title">Macrosoft Helpdesk</h5>
+            <!-- Bannière du projet (à remplacer par l'image appropriée) -->
+            <img 
+            src="images/slashed-project-management-console.png" 
+            class="card-img-top" 
+            alt="Bannière du projet Slashed Project - Management Console" 
+            style="height: 200px; object-fit: cover;">
+            <div class="card-body">
+            <h5 class="card-title">Slashed Project - Management Console</h5>
             <p class="card-text">
-              <strong>Service web de maintenance interne</strong> visant à créer une plateforme de <em>ticketing</em> pour l’IUT de Vélizy. Ce projet (version <strong>0.2</strong>) inclut la gestion de tickets, de libellés, de niveaux d’urgence, et un système de rôles (Visiteur, Utilisateur connecté, Administrateur web, Technicien, Administrateur système). Toute la documentation se trouve dans le répertoire <code>/doc</code>, et les pages HTML dans <code>/src/site</code>.
+                Outil de gestion des services pour un futur jeu FPS. Ce panel admin permet d'accéder aux serveurs de jeu, de gérer la base de données et les utilisateurs, et offre un accès CLI similaire à PuTTY pour une administration en ligne de commande.
             </p>
             <ul class="list-unstyled">
-              <li><strong>Technologies :</strong> PHP & MySQL, HTML/CSS, JavaScript, Raspbian, GitHub, SSH</li>
-              <li><strong>Objectif :</strong> Permettre la saisie et le suivi de tickets (Ouvert, En cours, Fermé)</li>
-              <li><strong>Rôles :</strong> Visiteur, Utilisateur, Admin web, Technicien, Admin système</li>
+                <li><strong>Technologies :</strong> Python, PyQt6, paramiko, pymysql</li>
+                <li><strong>Fonctionnalités :</strong> Panel admin, gestion des instances, monitoring système, accès CLI</li>
             </ul>
-            <a href="#" class="btn btn-primary">Voir le projet</a>
-          </div>
+            <a href="https://github.com/Gascor/Slashed-Project/tree/master/management-console/0.0.130a/src" class="btn btn-primary">Voir le projet</a>
+            </div>
         </div>
-      </div>
+        </div>
+
     </div>
   </section>
 
