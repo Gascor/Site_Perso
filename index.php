@@ -458,7 +458,9 @@
             </ul>
             <a href="https://github.com/Gascor/Slashed-Project" class="btn btn-primary">Voir le projet</a>
             <br>
+            <br>
             <a href="https://youtu.be/ZdqVkTJd0s8" class="btn btn-primary">Vidéo DEMO Moteur de Jeux 1</a>
+            <br>
             <br>
             <a href="https://youtu.be/bzrNcgabcaY" class="btn btn-primary">Vidéo DEMO Moteur de Jeux 2</a>
             </div>
