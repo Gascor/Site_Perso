@@ -54,6 +54,9 @@
               <a class="nav-link" href="#presentation">Présentation</a>
             </li>
             <li class="nav-item">
+                <a class="nav-link" href="#a-propos">À propos</a>
+            </li>
+            <li class="nav-item">
               <a class="nav-link" href="#projets">Projets</a>
             </li>
             <li class="nav-item">

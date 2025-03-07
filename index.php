@@ -30,24 +30,62 @@
         </p>
       </div>
       <div class="col-md-4">
-        <p><strong>Adresse :</strong> 10, Rue Skellmor<br/>78370 Plaisir</p>
+        <p><strong>Adresse :</strong> 3 rue Maximilien Robespierre, 78370 Plaisir</p>
         <p><strong>LinkedIn :</strong> 
-          <a href="https://linkedin.com/in/ton-profil" target="_blank">
-            Mon Profil
+          <a href="https://www.linkedin.com/in/lucas-da-silva-ferreira-a3a284229/" target="_blank">
+            Profil de Lucas Da Silva Ferreira
           </a>
         </p>
         <p><strong>GitHub :</strong> 
-          <a href="https://github.com/TonGitHub" target="_blank">
-            TonGitHub
+          <a href="https://github.com/Gascor" target="_blank">
+            Profil Github
           </a>
         </p>
       </div>
       <div class="col-md-4">
         <p><strong>Permis :</strong> B (Véhicule disponible)</p>
-        <p><strong>Situation :</strong> Étudiant BUT Informatique, UVSQ</p>
+        <p><strong>Situation :</strong> Étudiant BUT Informatique 3 (Bac+3), UVSQ</p>
       </div>
     </div>
   </section>
+
+  <!-- SECTION À PROPOS DE MOI -->
+<section id="a-propos" class="container mb-5" data-aos="fade-up">
+  <h2 class="mb-4 text-uppercase">À propos de moi</h2>
+  <div class="row">
+    <div class="col-md-8">
+      <p>
+        Étudiant en BUT Informatique passionné par le développement web et d'applications, j'apprécie tout particulièrement
+        la création de projets innovants. J’aime résoudre des problèmes et
+        apprendre de nouvelles technologies. À travers mes expériences, j’ai
+        développé des compétences en PHP, JavaScript, et en gestion de projets
+        collaboratifs. 
+      </p>
+      <p>
+        Je suis toujours à la recherche de nouveaux défis pour
+        approfondir mes connaissances et partager mes idées.
+      </p>
+      <!-- Bouton de téléchargement du CV -->
+      <a 
+        href="files/CV-LucasDaSilvaFerreira.pdf" 
+        class="btn btn-success" 
+        download="CV-LucasDaSilvaFerreira"
+      >
+      <i class="fas fa-download"></i> Télécharger mon CV
+      </a>
+    </div>
+    <div class="col-md-4 text-center">
+      <!-- Optionnel : une photo ou une illustration -->
+      <img 
+        src="images/lucas.jpg" 
+        alt="Photo de Lucas" 
+        class="img-fluid rounded" 
+        style="max-width: 200px;"
+      />
+    </div>
+  </div>
+</section>
+
 
     <!-- SECTION EXPÉRIENCE PROFESSIONNELLE -->
     <section id="experience" class="container mb-5" data-aos="fade-up">
@@ -236,17 +274,5 @@
   <div class="row">
   </div>
 </section>
-
-  <!-- SECTION CENTRES D’INTÉRÊT -->
-  <section id="centres-interet" class="container mb-5" data-aos="fade-up">
-    <h2 class="mb-4">Centres d'Intérêt</h2>
-    <ul>
-      <li>Programmation</li>
-      <li>Jeux vidéo</li>
-      <li>Musique</li>
-      <li>Sport (Foot, Basket)</li>
-    </ul>
-  </section>
-</main>
 
 <?php include 'includes/footer.php'; ?>
