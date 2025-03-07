@@ -440,6 +440,8 @@
                 <li><strong>Technologies :</strong> Python, PyQt6, paramiko, pymysql</li>
                 <li><strong>Fonctionnalités :</strong> Panel admin, gestion des instances, monitoring système, accès CLI</li>
             </ul>
+            <br>
+            <br>
             <a href="https://github.com/Gascor/Slashed-Project/tree/master/management-console/0.0.130a/src" class="btn btn-primary">Voir le projet</a>
             </div>
         </div>
@@ -479,6 +481,10 @@
             <ul>
                 <li><strong>Technologies :</strong> Java, MPI, Calcul Haute Performance, POO</li>
             </ul>
+            <br>
+            <br>
+            <br>
+            <br>
             <a href="https://github.com/Gascor/ProjetProgAvancee_Part2" class="btn btn-primary">Voir le projet</a>
             </div>
         </div>
