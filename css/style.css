@@ -94,4 +94,7 @@
   .competence-box {
     background-color: rgba(46, 181, 224, 0.1); /* fond léger bleu cyan transparent */
   }
-    
+  .badge.bg-info {
+    background-color: #17a2b8 !important; /* couleur légèrement plus sombre */
+    color: #ffffff !important; /* blanc pour un contraste élevé */
+}
