@@ -392,8 +392,6 @@
             </div>
             </div>
         </div>
-    </div>
-    <div class="row">
         <!-- Nouveau projet : Simulateur RPG -->
         <div class="col-md-6 mb-4" data-aos="fade-up">
         <div class="card h-100 experience-hover">
@@ -443,6 +441,40 @@
                 <li><strong>Fonctionnalités :</strong> Panel admin, gestion des instances, monitoring système, accès CLI</li>
             </ul>
             <a href="https://github.com/Gascor/Slashed-Project/tree/master/management-console/0.0.130a/src" class="btn btn-primary">Voir le projet</a>
+            </div>
+        </div>
+        </div>
+        <!-- Nouveau Projet : Slashed Project (Jeu FPS) -->
+        <div class="col-md-6 mb-4" data-aos="fade-up">
+        <div class="card h-100 experience-hover">
+            <img src="images/slashed-project-fps.png" class="card-img-top" alt="Slashed Project FPS">
+            <div class="card-body">
+            <h5 class="card-title">Slashed Project - Jeu FPS</h5>
+            <p class="card-text">
+                Développement d'un jeu FPS multijoueur avec gestion d'instances de jeu, intégration serveur-client et fonctionnalités avancées de gameplay.
+            </p>
+            <ul>
+                <li><strong>Technologies :</strong> Unreal Engine 4, C++, Multijoueur, Réseaux</li>
+            </ul>
+            <a href="https://github.com/Gascor/Slashed-Project" class="btn btn-primary">Voir le projet</a>
+            <a href="https://youtu.be/ZdqVkTJd0s8" class="btn btn-primary">Vidéo DEMO Moteur de Jeux 1</a>
+            <a href="https://youtu.be/bzrNcgabcaY" class="btn btn-primary">Vidéo DEMO Moteur de Jeux 2</a>
+            </div>
+        </div>
+        </div>
+
+        <!-- Nouveau Projet : Estimation de Pi via Monte Carlo -->
+        <div class="col-md-6 mb-4" data-aos="fade-up">
+        <div class="card h-100 experience-hover">
+            <div class="card-body">
+            <h5 class="card-title">Calcul parallèle Monte Carlo (Estimation de Pi)</h5>
+            <p class="card-text">
+                Projet universitaire utilisant la méthode de Monte-Carlo en parallèle pour estimer Pi, Experimentation sur 1 Coeur jusqu'à +160 coeurs CPU.
+            </p>
+            <ul>
+                <li><strong>Technologies :</strong> Java, MPI, Calcul Haute Performance, POO</li>
+            </ul>
+            <a href="https://github.com/Gascor/ProjetProgAvancee_Part2" class="btn btn-primary">Voir le projet</a>
             </div>
         </div>
         </div>
